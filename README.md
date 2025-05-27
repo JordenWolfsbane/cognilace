@@ -60,14 +60,14 @@ Cognilace is in **early development**, focused on defining the architecture, bui
 ## 📌 Roadmap Preview
 
 - 🟡 Core Langchain agent deployment
-- 🟡 Dev onboarding & contributor docs  
-- 🟡 Memory integration with Llamaindex and PostgreSQL
-- 🟡 Web interface for human–agent interaction with Streamlit
-- 🟡 Self-improvement via GitHub-based review  
+- 🟡 Dev onboarding & documentation  
+- 🔲 Memory integration with Llamaindex and PostgreSQL
+- 🔲 Web interface for human–agent interaction with Streamlit
+- 🔲 Knowledge-Base Formation
+- 🔲 Collaborative development via GitHub-based review  
+- 🔲 Sandboxed development environment
 - 🔲 CI-based agent validation & benchmarking  
 - 🔲 Plugin/tool registry system
-
-See [docs/ROADMAP.md](./docs/ROADMAP.md) for more detail.
 
 ---
 
